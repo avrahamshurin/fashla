@@ -1,5 +1,5 @@
-# fashla
-fashla is a tool for correcting mistakes when typing on a bilingual keyboard
+# Fashla
+Fashla is a tool for correcting mistakes when typing on a bilingual keyboard
 ## Usage
 * Select text that needs to be fixed, and press control+space
 * Press escape to exit program
